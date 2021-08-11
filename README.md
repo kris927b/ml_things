@@ -59,7 +59,7 @@ It's always good practice to install `ml_things` in a [virtual environment](http
 You can install `ml_things` with pip from GitHub:
 
 ```bash
-pip install git+https://github.com/gmihaila/ml_things
+pip install git+https://github.com/kris927b/ml_things
 ```
 
 ## Functions
